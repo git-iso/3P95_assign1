@@ -1,0 +1,2 @@
+COMPILE: javac process.java
+RUN: java process

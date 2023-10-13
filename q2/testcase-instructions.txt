@@ -1,0 +1,2 @@
+COMPILE: javac testcase.java
+RUN: java testcase
